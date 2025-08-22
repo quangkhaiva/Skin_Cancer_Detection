@@ -1,4 +1,4 @@
-# HAM10000SkinLesionDetector
+# HAM10000
 Multi Class classification using CNN models on HAM10000 Skin Lesion Dataset
 
 
@@ -6,7 +6,7 @@ Multi Class classification using CNN models on HAM10000 Skin Lesion Dataset
 This repository contains all the models I have experimented with and I have also created flask based UI for the classification prediction.
 
 
-# Skin-Lesion-Detector-Tool
+# Skin-Cancer-Detector-Tool
  
  Here Datasets must be downloaded from the Kaggle.
  Link to download datasets : https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000 , https://www.kaggle.com/discdiver/mnist1000-with-one-image-folder (contains all images in 1 folder only)
